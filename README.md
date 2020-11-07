@@ -1,1 +1,1 @@
-# DHT-11-Friver
+# DHT11-Driver
